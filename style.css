@@ -1,0 +1,47 @@
+*{
+	font-family: 'Grandstander', cursive;
+}
+ul{
+	list-style-type: none;
+}
+li{
+	display: inline;
+	margin: 200px;
+	color: white;
+	text-align: left;
+}
+header{
+	background-color: black;
+	padding: 1px;
+}
+li a{
+	color: white;
+	text-decoration: none;
+}
+li a:hover{
+	color: greenyellow;
+	text-decoration: none;
+}
+h1{
+text-align: center;
+}
+footer{
+	background-color: black;
+	padding: 1px;
+}
+p{
+	margin-bottom: 20px;
+}
+.container{
+	margin-left: 60px;
+	margin-right: 60px;
+	}
+h5{
+text-align: center;
+color: white;
+}
+.special{
+margin-left: 100px;
+margin-right: 100px;
+text-align:center;
+}
